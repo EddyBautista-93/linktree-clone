@@ -3,22 +3,22 @@
     "avatar": "https://media.licdn.com/dms/image/C4E03AQGXRydtNPnWaA/profile-displayphoto-shrink_800_800/0/1630767191480?e=1680134400&v=beta&t=o75py_nC96kM_FPZX2CLUqVZUFxm5VVewe2w9QtMbAI",
     "links": [
     {
-         "title" : "coding-playlist",
-         "url" : "https://open.spotify.com/playlist/2yaf3WOUeTIygGpgcqQ90a?si=8d7bd8e941d44b9c"  
+         "title" : "Coding Playlist 🧑‍💻🎧",
+         "href" : "https://open.spotify.com/playlist/2yaf3WOUeTIygGpgcqQ90a?si=8d7bd8e941d44b9c"  
     },
     {
-        "title" : "email-me-mailto",
-        "url": "mailto:bautista.j.eddy@gmail.com?Subject=%22Lets%20Colab%22%20-%20%5Benter%20project%20name%20here%5D"
+        "title" : "Contact me ✉️",
+        "href": "mailto:bautista.j.eddy@gmail.com?Subject=%22Lets%20Colab%22%20-%20%5Benter%20project%20name%20here%5D"
     }
     ],
  "socials": [
     {
          "title" : "github",
-         "url" : "https://open.spotify.com/playlist/2yaf3WOUeTIygGpgcqQ90a?si=8d7bd8e941d44b9chttps://github.com/EddyBautista-93"  
+         "href" : "https://open.spotify.com/playlist/2yaf3WOUeTIygGpgcqQ90a?si=8d7bd8e941d44b9chttps://github.com/EddyBautista-93"  
     },
     {
         "title" : "linkedin",
-        "url": "https://www.linkedin.com/in/eddy-bautista/"
+        "href": "https://www.linkedin.com/in/eddy-bautista/"
     }
     ]
 }
